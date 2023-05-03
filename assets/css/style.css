@@ -144,6 +144,7 @@ p {
 
 /* main content  */
 /* bundled into one  */
+/* kept 3 seperate classes in case down the road 1 class needs changing */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -177,6 +178,6 @@ p {
   text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
   font-size: 20px;
 }
